@@ -1,0 +1,169 @@
+{
+    "cars": [
+        {
+            "id": 12345678,
+            "licensePlate": "ABC-1234",
+            "chassis": "9BWZZZ377VT004251",
+            "renavam": "12345678901",
+            "model": "Civic",
+            "brand": "Honda",
+            "year": 2020,
+            "price": 85000,
+            "image": "https://example.com/images/honda_civic.jpg"
+        },
+        {
+            "id": 23456789,
+            "licensePlate": "XYZ-5678",
+            "chassis": "8ABZZZ366UT006712",
+            "renavam": "98765432109",
+            "model": "Corolla",
+            "brand": "Toyota",
+            "year": 2021,
+            "price": 92000,
+            "image": "https://example.com/images/toyota_corolla.jpg"
+        },
+        {
+            "id": 34567890,
+            "licensePlate": "LMN-3456",
+            "chassis": "7CDZZZ488HT007894",
+            "renavam": "56789012345",
+            "model": "Onix",
+            "brand": "Chevrolet",
+            "year": 2019,
+            "price": 48000,
+            "image": "https://example.com/images/chevrolet_onix.jpg"
+        },
+        {
+            "id": 45678901,
+            "licensePlate": "QWE-2345",
+            "chassis": "6XYZZZ234HT007821",
+            "renavam": "11223344556",
+            "model": "Focus",
+            "brand": "Ford",
+            "year": 2018,
+            "price": 67000,
+            "image": "https://example.com/images/ford_focus.jpg"
+        },
+        {
+            "id": 56789012,
+            "licensePlate": "RTY-6789",
+            "chassis": "5GHZZZ123HT003458",
+            "renavam": "99887766554",
+            "model": "Cruze",
+            "brand": "Chevrolet",
+            "year": 2017,
+            "price": 74000,
+            "image": "https://example.com/images/chevrolet_cruze.jpg"
+        },
+        {
+            "id": 67890123,
+            "licensePlate": "UOP-4567",
+            "chassis": "4OPZZZ789UT004789",
+            "renavam": "22334455667",
+            "model": "Sentra",
+            "brand": "Nissan",
+            "year": 2022,
+            "price": 96000,
+            "image": "https://example.com/images/nissan_sentra.jpg"
+        },
+        {
+            "id": 78901234,
+            "licensePlate": "GHJ-0987",
+            "chassis": "3TYZZZ456UT005123",
+            "renavam": "33445566778",
+            "model": "Jetta",
+            "brand": "Volkswagen",
+            "year": 2020,
+            "price": 88000,
+            "image": "https://example.com/images/volkswagen_jetta.jpg"
+        },
+        {
+            "id": 89012345,
+            "licensePlate": "BNM-2345",
+            "chassis": "2ASZZZ678HT008754",
+            "renavam": "44556677889",
+            "model": "Polo",
+            "brand": "Volkswagen",
+            "year": 2021,
+            "price": 54000,
+            "image": "https://example.com/images/volkswagen_polo.jpg"
+        },
+        {
+            "id": 90123456,
+            "licensePlate": "VFR-3456",
+            "chassis": "1MNZZZ987HT009876",
+            "renavam": "55667788990",
+            "model": "Fusion",
+            "brand": "Ford",
+            "year": 2018,
+            "price": 73000,
+            "image": "https://example.com/images/ford_fusion.jpg"
+        },
+        {
+            "id": 11234567,
+            "licensePlate": "ASD-7654",
+            "chassis": "0GHZZZ456UT003212",
+            "renavam": "66778899001",
+            "model": "Compass",
+            "brand": "Jeep",
+            "year": 2021,
+            "price": 98000,
+            "image": "https://example.com/images/jeep_compass.jpg"
+        },
+        {
+            "id": 22345678,
+            "licensePlate": "LKJ-8765",
+            "chassis": "9JKZZZ123HT002348",
+            "renavam": "77889900112",
+            "model": "HB20",
+            "brand": "Hyundai",
+            "year": 2019,
+            "price": 52000,
+            "image": "https://example.com/images/hyundai_hb20.jpg"
+        },
+        {
+            "id": 33456789,
+            "licensePlate": "MNB-5432",
+            "chassis": "8PLZZZ456UT001238",
+            "renavam": "88990011223",
+            "model": "Tucson",
+            "brand": "Hyundai",
+            "year": 2020,
+            "price": 88000,
+            "image": "https://example.com/images/hyundai_tucson.jpg"
+        },
+        {
+            "id": 44567890,
+            "licensePlate": "XCV-4321",
+            "chassis": "7LOZZZ123HT003478",
+            "renavam": "99001122334",
+            "model": "EcoSport",
+            "brand": "Ford",
+            "year": 2019,
+            "price": 63000,
+            "image": "https://example.com/images/ford_ecosport.jpg"
+        },
+        {
+            "id": 55678901,
+            "licensePlate": "POI-9876",
+            "chassis": "6IKZZZ987HT009212",
+            "renavam": "11223344557",
+            "model": "Civic",
+            "brand": "Honda",
+            "year": 2022,
+            "price": 93000,
+            "image": "https://example.com/images/honda_civic_2022.jpg"
+        },
+        {
+            "id": 66789012,
+            "licensePlate": "QAZ-6543",
+            "chassis": "5EDZZZ654HT004567",
+            "renavam": "22334455668",
+            "model": "Kicks",
+            "brand": "Nissan",
+            "year": 2020,
+            "price": 71000,
+            "image": "https://example.com/images/nissan_kicks.jpg"
+        }
+    ]
+}
