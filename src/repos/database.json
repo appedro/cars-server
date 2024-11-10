@@ -9,18 +9,7 @@
             "brand": "Honda",
             "year": 2020,
             "price": 85000,
-            "image": "https://example.com/images/honda_civic.jpg"
-        },
-        {
-            "id": 23456789,
-            "licensePlate": "XYZ-5678",
-            "chassis": "8ABZZZ366UT006712",
-            "renavam": "98765432109",
-            "model": "Corolla",
-            "brand": "Toyota",
-            "year": 2021,
-            "price": 92000,
-            "image": "https://example.com/images/toyota_corolla.jpg"
+            "image": "https://www.honda.com.br/automoveis/sites/hab/files/2023-02/HONDA_HAB---Civic-Hi%CC%81brido---360-2_0017_360.0008.png"
         },
         {
             "id": 34567890,
@@ -31,7 +20,7 @@
             "brand": "Chevrolet",
             "year": 2019,
             "price": 48000,
-            "image": "https://example.com/images/chevrolet_onix.jpg"
+            "image": "https://gmbrazilpilot.dealeron.com/static/oem-general-motors-brazil/2024/759/oferta-13.png"
         },
         {
             "id": 45678901,
@@ -42,7 +31,7 @@
             "brand": "Ford",
             "year": 2018,
             "price": 67000,
-            "image": "https://example.com/images/ford_focus.jpg"
+            "image": "https://i.imgur.com/gfzU1Gl.png"
         },
         {
             "id": 56789012,
@@ -53,7 +42,7 @@
             "brand": "Chevrolet",
             "year": 2017,
             "price": 74000,
-            "image": "https://example.com/images/chevrolet_cruze.jpg"
+            "image": "https://revistacarro.com.br/wp-content/uploads/2018/05/chevrolet_cruze_sport6_ltz.png"
         },
         {
             "id": 67890123,
@@ -64,7 +53,7 @@
             "brand": "Nissan",
             "year": 2022,
             "price": 96000,
-            "image": "https://example.com/images/nissan_sentra.jpg"
+            "image": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/sentra-my25/thumbs/sentra_advance.png"
         },
         {
             "id": 78901234,
@@ -75,7 +64,7 @@
             "brand": "Volkswagen",
             "year": 2020,
             "price": 88000,
-            "image": "https://example.com/images/volkswagen_jetta.jpg"
+            "image": "https://65e81151f52e248c552b-fe74cd567ea2f1228f846834bd67571e.ssl.cf1.rackcdn.com/ldm-images/2024-volkswagen-jetta-Color-pure-white.png"
         },
         {
             "id": 89012345,
@@ -86,29 +75,7 @@
             "brand": "Volkswagen",
             "year": 2021,
             "price": 54000,
-            "image": "https://example.com/images/volkswagen_polo.jpg"
-        },
-        {
-            "id": 90123456,
-            "licensePlate": "VFR-3456",
-            "chassis": "1MNZZZ987HT009876",
-            "renavam": "55667788990",
-            "model": "Fusion",
-            "brand": "Ford",
-            "year": 2018,
-            "price": 73000,
-            "image": "https://example.com/images/ford_fusion.jpg"
-        },
-        {
-            "id": 11234567,
-            "licensePlate": "ASD-7654",
-            "chassis": "0GHZZZ456UT003212",
-            "renavam": "66778899001",
-            "model": "Compass",
-            "brand": "Jeep",
-            "year": 2021,
-            "price": 98000,
-            "image": "https://example.com/images/jeep_compass.jpg"
+            "image": "https://volkswagenpampa.com.br/wp-content/uploads/2023/01/VW_Novos_Polo-1.png"
         },
         {
             "id": 22345678,
@@ -119,7 +86,7 @@
             "brand": "Hyundai",
             "year": 2019,
             "price": 52000,
-            "image": "https://example.com/images/hyundai_hb20.jpg"
+            "image": "https://evoyconsorcios.com.br/images/uploads/posts/hiunday-hb20-destaque.png"
         },
         {
             "id": 33456789,
@@ -130,7 +97,7 @@
             "brand": "Hyundai",
             "year": 2020,
             "price": 88000,
-            "image": "https://example.com/images/hyundai_tucson.jpg"
+            "image": "https://mystrongad.com/HNW_RedMcCombsHyundaiNorthWest/Tucson/2022/2022-Tucson-SE-White.png"
         },
         {
             "id": 44567890,
@@ -141,7 +108,7 @@
             "brand": "Ford",
             "year": 2019,
             "price": 63000,
-            "image": "https://example.com/images/ford_ecosport.jpg"
+            "image": "https://pngimg.com/d/ford_PNG102944.png"
         },
         {
             "id": 55678901,
@@ -152,7 +119,7 @@
             "brand": "Honda",
             "year": 2022,
             "price": 93000,
-            "image": "https://example.com/images/honda_civic_2022.jpg"
+            "image": "https://www.honda.com.br/automoveis/sites/hab/files/2023-02/HONDA_HAB---Civic-Hi%CC%81brido---360-2_0017_360.0008.png"
         },
         {
             "id": 66789012,
@@ -163,7 +130,7 @@
             "brand": "Nissan",
             "year": 2020,
             "price": 71000,
-            "image": "https://example.com/images/nissan_kicks.jpg"
+            "image": "https://digital.nissan.com.br/catalogo-kicks/img/colores/kicks-blanco.png"
         }
     ]
 }
