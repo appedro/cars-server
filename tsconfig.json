@@ -79,7 +79,8 @@
     "src/**/*.ts",
     "spec/**/*.ts",
     "scripts",
-    "preload.js"
+    "preload.js",
+    "test/**/*.ts"
   ],
   "exclude": [
     "src/public/*"
